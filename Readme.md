@@ -24,9 +24,9 @@ To set up and run the backend application, follow these steps:
 
 - Open the src/main/resources/application.properties file and update the following properties with your MySQL database credentials:
 
-- - spring.datasource.url: The URL for your MySQL database.
-- - spring.datasource.username: The username for your MySQL database.
-- - spring.datasource.password: The password for your MySQL database.
+  - spring.datasource.url: The URL for your MySQL database.
+  - spring.datasource.username: The username for your MySQL database.
+  - spring.datasource.password: The password for your MySQL database.
 
 - Build the project: ./mvnw clean install
 - Run the application: ./mvnw spring-boot:run
