@@ -18,9 +18,9 @@ Before running the application, ensure that you have the following:
 
 To set up and run the backend application, follow these steps:
 
-- **Clone the repository:** git clone <repository-url>
+- **Clone the repository:** git clone https://github.com/vaishu98/BasicRoleBasedLoginApplication.git
 
-- **Navigate to the project directory:** cd <project-directory>
+- **Navigate to the project directory:** cd BasicRoleBasedLoginApplication
 
 - Open the src/main/resources/application.properties file and update the following properties with your MySQL database credentials:
 
